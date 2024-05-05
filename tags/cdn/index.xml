@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CDN on ToT Blog</title><link>https://blog.tot.yt/tags/cdn/</link><description>Recent content in CDN on ToT Blog</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Thu, 06 Apr 2023 08:15:00 +0000</lastBuildDate><atom:link href="https://blog.tot.yt/tags/cdn/index.xml" rel="self" type="application/rss+xml"/><item><title>Typecho配置全站CDN加速</title><link>https://blog.tot.yt/archives/typecho%E9%85%8D%E7%BD%AE%E5%85%A8%E7%AB%99cdn%E5%8A%A0%E9%80%9F/</link><pubDate>Thu, 06 Apr 2023 08:15:00 +0000</pubDate><guid>https://blog.tot.yt/archives/typecho%E9%85%8D%E7%BD%AE%E5%85%A8%E7%AB%99cdn%E5%8A%A0%E9%80%9F/</guid><description> 由于全站使用CDN加速，进入后台时出现页面异常，登录不上
+这里以又拍云为例
+在源站设置 1.png 如果你的源站使用SSL，CDN也使用SSL，就选择协议跟随
+在缓存设置 2.png 3.png 如果使用伪静态就不用排除 /index.php/action/*
+参数跟随 4.png</description></item></channel></rss>
