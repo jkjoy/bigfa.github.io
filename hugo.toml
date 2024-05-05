@@ -1,4 +1,4 @@
-baseURL = 'https://bigfa.github.io/'
+baseURL = 'https://blog.tot.yt/'
 languageCode = 'zh-cn'
 timezone = 'Asia/Shanghai'
 defaultContentLanguage = 'zh-cn'
@@ -7,7 +7,7 @@ theme = 'farallon'
 
 [langusges]
 [languages.en]
-  title = "Untitled"
+  title = "ToT Blog"
   languageName = "English"
   contentDir = 'content/en'
   [languages.en.menu]
@@ -37,7 +37,7 @@ theme = 'farallon'
     weight="1"
 
 [languages.zh-cn]
-  title = "Untitled"
+  title = "ToT Blog"
   languageName = "简体中文"
   contentDir = 'content/zh-cn'
   [languages.zh-cn.menu]
