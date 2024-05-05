@@ -3,7 +3,7 @@ title: "继百度云os腾讯tos之后阿里的云os停止开发"
 slug: "继百度云os腾讯tos之后阿里的云os停止开发"
 date: 2018-03-28T02:26:00.000Z
 categories:
-- 日记
+- 吐槽
 tags:
 - 手机
 ---

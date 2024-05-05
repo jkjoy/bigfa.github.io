@@ -30,10 +30,10 @@ theme = 'farallon'
     [[languages.en.menu.main]]
     name="About"
     url="/en/about/"
-    weight="3"
+    weight="5"
     [[languages.en.menu.main]]
     name="Stories"
-    url="/en/archives/"
+    url="/en/stories/"
     weight="1"
 
 [languages.zh-cn]
@@ -42,13 +42,13 @@ theme = 'farallon'
   contentDir = 'content/zh-cn'
   [languages.zh-cn.menu]
     [[languages.zh-cn.menu.main]]
-    name="设备"
+    name="好物"
     url="/gears/"
-    weight="1"
+    weight="2"
     [[languages.zh-cn.menu.main]]
-    name="书影音"
+    name="豆瓣"
     url="/movies/"
-    weight="1"
+    weight="3"
     [[languages.zh-cn.menu.main]]
     name="分类"
     url="/categories/"
@@ -59,7 +59,7 @@ theme = 'farallon'
     weight="1"
     [[languages.zh-cn.menu.main]]
     name="文章"
-    url="/archives/"
+    url="/story/"
     weight="1"
 
 [taxonomies]
@@ -72,9 +72,9 @@ theme = 'farallon'
   toc = true
   mainSections = ['story','memo']
   indexName = 'bigfa'
-  searchKey = 'b0825b184f45c084e31770fbcc9261f2'
-  searchAPPID = 'FX1CAS2SD8'
-  showAuthor = true
+  searchKey = 'cde4710ac37be59cc3284179deb3a37b'
+  searchAPPID = 'LG3447W3ML'
+  showAuthor = false
   authorName = '浪子'
   authorDescription = '曾梦想仗剑走天涯'
   authorAvatar = 'https://img.imsun.org/avatar.jpg'

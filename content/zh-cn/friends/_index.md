@@ -6,7 +6,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Bruce_Willis"
 menu:
     main:
         name: 链接
-        weight: 10
+        weight: 9
 links:
     [
         {

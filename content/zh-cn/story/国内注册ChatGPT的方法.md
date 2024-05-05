@@ -1,6 +1,5 @@
 ---
 title: "国内注册ChatGPT的方法"
-slug: "国内注册ChatGPT的方法"
 date: 2023-04-03T03:28:00.000Z
 categories:
 - 分享

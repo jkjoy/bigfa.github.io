@@ -1,6 +1,5 @@
 ---
 title: "8月27."
-slug: "life8月27"
 date: 2013-08-27T11:44:21.000Z
 categories:
 - 吐槽

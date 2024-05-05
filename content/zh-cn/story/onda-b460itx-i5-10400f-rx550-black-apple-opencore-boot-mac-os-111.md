@@ -13,7 +13,4 @@ tags:
  3. 显卡 yeston rx560d 4g
  4. SSD sn550 nvme 
  5. WiFi bcm94331cd
-![uugai.com-b4348-16149290981994.png][1]
 
-
-  [1]: https://blog.asbid.cn/usr/uploads/2021/03/4170057593.png
