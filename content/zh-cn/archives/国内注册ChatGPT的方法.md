@@ -1,14 +1,11 @@
 ---
-title: 国内注册ChatGPT的方法
-id: 482
-date: 2023-10-17 08:43:40
-auther: admin
-excerpt: 国内注册ChatGPT的方法ChatGPT 是由 OpenAI 开发的一个人工智能聊天机器人程序，于 2022 年 11 月推出，基于 GPT-3.5 架构的大型语言模型并通过强化学习进行训练，在这款软件中用户们可以与 AI 人工智能进行多种的对话工作，目前，有部分地区（例如中国大陆、香港）无法使用
-permalink: /archives/guo-nei-zhu-ce-chatgpt-de-fang-fa
+title: "国内注册ChatGPT的方法"
+slug: "国内注册ChatGPT的方法"
+date: 2023-04-03T03:28:00.000Z
 categories:
- - share
-tags: 
- - chatgpt
+- 分享
+tags:
+- ChatGPT
 ---
 
 #### 国内注册ChatGPT的方法
@@ -105,5 +102,3 @@ tags:
 #### 总结
 
  以上是为你介绍的国内注册 ChatGPT 的方法，希望对你了解 ChatGPT 有所帮助，如有问题，欢迎联系我们。
-
-
