@@ -1,6 +1,6 @@
 ---
 title: "朋友们"
-subtitle: "blogroll"
+subtitle: "友情链接"
 layout: "links"
 wikipedia: "https://en.wikipedia.org/wiki/Bruce_Willis"
 menu:
