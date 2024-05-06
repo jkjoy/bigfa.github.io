@@ -33,7 +33,7 @@ theme = 'farallon'
     weight="5"
     [[languages.en.menu.main]]
     name="Stories"
-    url="/en/stories/"
+    url="/en/archives/"
     weight="1"
 
 [languages.zh-cn]
@@ -59,7 +59,7 @@ theme = 'farallon'
     weight="1"
     [[languages.zh-cn.menu.main]]
     name="文章"
-    url="/story/"
+    url="/archives/"
     weight="1"
 
 [taxonomies]
@@ -70,7 +70,7 @@ theme = 'farallon'
   search= true
   description = 'A simple and fast blog framework written in Go.'
   toc = true
-  mainSections = ['story','memo']
+  mainSections = ['archives','memo']
   indexName = 'bigfa'
   searchKey = 'cde4710ac37be59cc3284179deb3a37b'
   searchAPPID = 'LG3447W3ML'
@@ -78,7 +78,7 @@ theme = 'farallon'
   authorName = '浪子'
   authorDescription = '曾梦想仗剑走天涯'
   authorAvatar = 'https://img.imsun.org/avatar.jpg'
-  commentDomain = 'https://fatesinger.com/__api/v1'
+  commentDomain = 'https://t.loliko.cn'
   telegram = 'https://t.me/'
   feed = '/index.xml'
   twitter = '/'
