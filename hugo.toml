@@ -1,4 +1,4 @@
-baseURL = 'https://blog.tot.yt/'
+baseURL = 'https://www.sunpeiwen.com/'
 languageCode = 'zh-cn'
 timezone = 'Asia/Shanghai'
 defaultContentLanguage = 'zh-cn'
@@ -7,7 +7,7 @@ theme = 'farallon'
 
 [langusges]
 [languages.en]
-  title = "ToT Blog"
+  title = "资深网民孙先生"
   languageName = "English"
   contentDir = 'content/en'
   [languages.en.menu]
@@ -37,7 +37,7 @@ theme = 'farallon'
     weight="1"
 
 [languages.zh-cn]
-  title = "ToT Blog"
+  title = "资深网民孙先生"
   languageName = "简体中文"
   contentDir = 'content/zh-cn'
   [languages.zh-cn.menu]
@@ -68,15 +68,15 @@ theme = 'farallon'
 
 [Params]
   search= true
-  description = 'A simple and fast blog framework written in Go.'
+  description = '资深网民孙先生的个人博客.'
   toc = true
   mainSections = ['archives','memo']
   indexName = 'bigfa'
   searchKey = 'cde4710ac37be59cc3284179deb3a37b'
   searchAPPID = 'LG3447W3ML'
   showAuthor = false
-  authorName = '浪子'
-  authorDescription = '曾梦想仗剑走天涯'
+  authorName = '老孙'
+  authorDescription = '资深网民孙先生'
   authorAvatar = 'https://img.imsun.org/avatar.jpg'
   commentDomain = 'https://t.loliko.cn'
   telegram = 'https://t.me/'
