@@ -30,3 +30,11 @@ jobs:
                   PUBLISH_BRANCH: gh-pages # 推送到当前 gh-pages 分支
                   PUBLISH_DIR: ./public # hugo 生成到 public 作为跟目录
                   commit_message: ${{ github.event.head_commit.message }}
+                  
+            - name: Search
+              uses: caibingcheng/hugo-algolia2@v1
+              with:
+                   input: "content/zh-cn/story/**"
+                   index: "bigfa"
+                   apikey: ${{ secrets.ALGOLIA_WRITE_KEY }}
+                   appid: "LG3447W3ML"
