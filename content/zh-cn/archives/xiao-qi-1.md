@@ -1,6 +1,6 @@
 ---
 title: "小七呀"
-slug: "xiao-qi-1"
+slug: "xiao-qi"
 date: 2019-01-12T14:38:00.000Z
 categories:
 - 分享

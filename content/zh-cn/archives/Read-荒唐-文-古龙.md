@@ -1,6 +1,6 @@
 ---
 title: "荒唐   文，古龙"
-slug: "Read-荒唐-文-古龙"
+slug: "Read-gulong"
 date: 2017-01-27T16:50:00.000Z
 categories:
 - 测试

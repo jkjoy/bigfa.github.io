@@ -1,6 +1,5 @@
 ---
 title: "Git在windows下区分大小写"
-slug: "Windows-Git在windows下区分大小写"
 date: 2023-03-21T11:03:00.000Z
 categories:
 - 分享

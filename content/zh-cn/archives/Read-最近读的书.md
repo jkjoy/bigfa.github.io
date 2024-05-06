@@ -1,6 +1,5 @@
 ---
 title: "最近读的书"
-slug: "Read-最近读的书"
 date: 2011-10-28T11:31:00.000Z
 categories:
 - 日记
