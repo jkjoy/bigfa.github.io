@@ -12,13 +12,13 @@ theme = 'farallon'
   contentDir = 'content/zh-cn'
   [languages.zh-cn.menu]
     [[languages.zh-cn.menu.main]]
-    name="好物"
-    url="/gears/"
-    weight="2"
-    [[languages.zh-cn.menu.main]]
     name="豆瓣"
     url="/movies/"
     weight="3"
+    [[languages.zh-cn.menu.main]]
+    name="说说"
+    url="/memo/"
+    weight="2"
     [[languages.zh-cn.menu.main]]
     name="分类"
     url="/categories/"
@@ -29,7 +29,7 @@ theme = 'farallon'
     weight="1"
     [[languages.zh-cn.menu.main]]
     name="文章"
-    url="/archives/"
+    url="/story/"
     weight="1"
 
 [taxonomies]
@@ -40,7 +40,7 @@ theme = 'farallon'
   search= true
   description = '资深网民孙先生的个人博客.'
   toc = true
-  mainSections = ['archives','memo']
+  mainSections = ['story','memo']
   indexName = 'hugo-blog'
   searchKey = 'cde4710ac37be59cc3284179deb3a37b'
   searchAPPID = 'LG3447W3ML'
