@@ -35,6 +35,6 @@ jobs:
               uses: caibingcheng/hugo-algolia2@v1
               with:
                    input: "content/zh-cn/story/**"
-                   index: "bigfa"
+                   index: "hugo-blog"
                    apikey: ${{ secrets.ALGOLIA_WRITE_KEY }}
                    appid: "LG3447W3ML"
