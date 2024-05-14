@@ -14,7 +14,7 @@ theme = 'farallon'
     [[languages.zh-cn.menu.main]]
     name="豆瓣"
     url="/movies/"
-    weight="1"
+    weight="3"
     [[languages.zh-cn.menu.main]]
     name="首页"
     url="/"
@@ -26,11 +26,11 @@ theme = 'farallon'
     [[languages.zh-cn.menu.main]]
     name="标签"
     url="/tags/"
-    weight="3"
+    weight="2"
     [[languages.zh-cn.menu.main]]
     name="文章"
     url="/story/"
-    weight="5"
+    weight="2"
 
 [taxonomies]
   category = 'categories'
