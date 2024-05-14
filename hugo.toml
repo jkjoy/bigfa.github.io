@@ -14,23 +14,23 @@ theme = 'farallon'
     [[languages.zh-cn.menu.main]]
     name="豆瓣"
     url="/movies/"
-    weight="3"
+    weight="1"
     [[languages.zh-cn.menu.main]]
     name="说说"
     url="/memo/"
-    weight="2"
+    weight="1"
     [[languages.zh-cn.menu.main]]
     name="分类"
     url="/categories/"
-    weight="1"
+    weight="2"
     [[languages.zh-cn.menu.main]]
     name="标签"
     url="/tags/"
-    weight="1"
+    weight="3"
     [[languages.zh-cn.menu.main]]
     name="文章"
     url="/story/"
-    weight="1"
+    weight="5"
 
 [taxonomies]
   category = 'categories'
