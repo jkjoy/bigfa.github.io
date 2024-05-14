@@ -4,6 +4,10 @@ timezone = 'Asia/Shanghai'
 defaultContentLanguage = 'zh-cn'
 theme = 'farallon'
 
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = '0.111.0'
 
 [langusges]
 [languages.zh-cn]
@@ -48,13 +52,15 @@ theme = 'farallon'
   authorName = '老孙'
   authorDescription = '资深网民孙先生'
   authorAvatar = 'https://img.imsun.org/avatar.jpg'
-  commentDomain = 'https://t.loliko.cn'
+  twikooENV = 'https://t.loliko.cn'
   telegram = 'https://t.me/'
   feed = '/index.xml'
-  twitter = '/'
+  twitter = 'https://twitter.com/imsunpw'
   instagram = '/'
   github = 'https://github.com/jkjoy'
   footer_sns = true
+  icon = 'https://img.imsun.org/avatar.jpg'
+  logo = 'https://img.imsun.org/avatar.jpg'
 
 [outputs]
   home = [ "HTML","JSON","RSS","SITEMAP"]
