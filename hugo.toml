@@ -16,8 +16,8 @@ theme = 'farallon'
     url="/movies/"
     weight="1"
     [[languages.zh-cn.menu.main]]
-    name="说说"
-    url="/memo/"
+    name="首页"
+    url="/"
     weight="1"
     [[languages.zh-cn.menu.main]]
     name="分类"
