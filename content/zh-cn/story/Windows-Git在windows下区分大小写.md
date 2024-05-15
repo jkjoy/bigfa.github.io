@@ -1,5 +1,6 @@
 ---
 title: "Git在windows下区分大小写"
+slug: "git-windows-caps"
 date: 2023-03-21T11:03:00.000Z
 categories:
 - 分享

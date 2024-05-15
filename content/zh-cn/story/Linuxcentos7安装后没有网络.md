@@ -1,6 +1,6 @@
 ---
 title: "centos7安装后没有网络"
-slug: "Linuxcentos7安装后没有网络"
+slug: "centos7-network"
 date: 2022-11-29T01:56:00.000Z
 categories:
 - 测试

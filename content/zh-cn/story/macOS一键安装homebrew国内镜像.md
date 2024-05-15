@@ -1,9 +1,9 @@
 ---
 title: "macOS一键安装homebrew国内镜像"
-slug: "macOS一键安装homebrew国内镜像"
+slug: "macOS-install-homebrew"
 date: 2022-07-29T07:33:00.000Z
 categories:
-- 测试
+- 分享
 tags:
 - macOS
 ---

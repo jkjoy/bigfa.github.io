@@ -1,6 +1,6 @@
 ---
 title: "NEC VK22 测评"
-slug: "nec-vk22-evaluation-1"
+slug: "nec-vk22-evaluation"
 date: 2021-10-10T07:52:00.000Z
 categories:
 - 分享

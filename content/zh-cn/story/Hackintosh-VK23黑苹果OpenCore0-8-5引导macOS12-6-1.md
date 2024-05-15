@@ -1,6 +1,6 @@
 ---
 title: "VK23黑苹果OpenCore0.8.5引导macOS12.6.1"
-slug: "Hackintosh-VK23黑苹果OpenCore0-8-5引导macOS12-6-1"
+slug: "Hackintosh-VK23"
 date: 2022-11-08T06:23:00.000Z
 categories:
 - 分享

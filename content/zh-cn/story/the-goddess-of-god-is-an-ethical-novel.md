@@ -3,9 +3,8 @@ title: "神雕侠侣其实是一部伦理小说"
 slug: "the-goddess-of-god-is-an-ethical-novel"
 date: 2018-04-17T04:10:00.000Z
 categories:
-- 日记
+- 吐槽
 tags:
-- SNH48
 ---
 
 神雕侠侣是金庸先生最让人耳熟能详的作品

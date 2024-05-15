@@ -1,6 +1,6 @@
 ---
 title: "Linux下本地安装包命令"
-slug: "LinuxLinux下本地安装包命令"
+slug: "Linux-local-rpm-install"
 date: 2022-07-27T02:39:00.000Z
 categories:
 - 测试

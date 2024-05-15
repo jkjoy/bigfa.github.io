@@ -1,6 +1,6 @@
 ---
 title: "为Memos增加twikoo评论"
-slug: "为Memos增加twikoo评论"
+slug: "Memos-twikoo"
 date: 2023-06-17T06:42:00.000Z
 categories:
 - 分享

@@ -1,6 +1,6 @@
 ---
 title: "Opencore引导Big Sur 11.6 Onda h410 ipc+i5 10400t es+dw1820a"
-slug: "opencore-boot-big-sur-116-onda-h410-ipc-i5-10400t-es-dw1820a"
+slug: "onda-h410-ipc-i5-10400t-es-dw1820a"
 date: 2021-10-15T03:49:00.000Z
 categories:
 - 分享

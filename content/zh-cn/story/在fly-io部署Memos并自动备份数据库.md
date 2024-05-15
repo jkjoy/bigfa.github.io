@@ -1,6 +1,6 @@
 ---
 title: "在fly.io部署Memos并自动备份数据库"
-slug: "在fly-io部署Memos并自动备份数据库"
+slug: "fly-io-Memos"
 date: 2023-08-15T02:02:00.000Z
 categories:
 - 分享

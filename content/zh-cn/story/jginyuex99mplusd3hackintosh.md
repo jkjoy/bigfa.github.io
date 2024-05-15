@@ -1,6 +1,6 @@
 ---
 title: "精粤X99M-PLUS-D3+rx580黑苹果opencore0.9.0引导"
-slug: "jginyuex99mplusd3hackintosh"
+slug: "jingyue-x99m-plus-d3"
 date: 2023-04-28T03:56:00.000Z
 categories:
 - 分享

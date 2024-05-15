@@ -1,6 +1,6 @@
 ---
 title: "小绵羊SNH48许杨玉琢"
-slug: "small-sheep-snh48-xu-yang-yuzhuo"
+slug: "snh48-xu-yang-yuzhuo"
 date: 2019-01-12T14:37:00.000Z
 categories:
 - 吐槽

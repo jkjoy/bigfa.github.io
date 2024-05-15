@@ -1,6 +1,6 @@
 ---
 title: "精粤h97m-vh+i5 5575r oc0.6.7引导big sur11.1 "
-slug: "jingyue-h97m-vh-i5-5575r-oc-067-guide-big-sur111"
+slug: "jingyue-h97m-vh"
 date: 2021-03-24T04:00:00.000Z
 categories:
 - 分享

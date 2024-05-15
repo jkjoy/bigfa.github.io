@@ -1,6 +1,6 @@
 ---
 title: "在fly.io部署artalk评论系统"
-slug: "在fly部署artalk评论系统"
+slug: "fly-artalk"
 date: 2023-08-15T01:37:00.000Z
 categories:
 - 分享
